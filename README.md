@@ -1,5 +1,5 @@
 
-        ami = "",
-        instance_name = "",
-        instance_type = ""
+        ami = "asdsada",
+        instance_name = "dasdasdasd",
+        instance_type = "asdsada"
         
